@@ -81,7 +81,7 @@
     "levelerDrcConfig":{
 		"attackDuration": 0.2,
 		"releaseDuration": 1,
-		"compressionThresholdFullScaleDb": 20,
+		"compressionThresholdFullScaleDb": -20,
 		"compressionRatio": 2,
 		"sampleRateHz": 48000,
 		"postGain": 0
@@ -90,7 +90,7 @@
 	"limiterDrcConfig":{
 		"attackDuration": 0.2,
 		"releaseDuration": 1,
-		"compressionThresholdFullScaleDb": 20,
+		"compressionThresholdFullScaleDb": -20,
 		"compressionRatio": 2,
 		"sampleRateHz": 48000,
 		"postGain": 0
