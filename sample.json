@@ -94,5 +94,10 @@
 		"compressionRatio": 2,
 		"sampleRateHz": 48000,
 		"postGain": 0
-	}
+	},
+	"alaEnabled": false,
+    "alaConfig": {
+		"coefficients": [
+        ],		
+    }
 }
